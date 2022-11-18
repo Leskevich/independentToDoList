@@ -1,0 +1,14 @@
+.error{
+    outline: none;
+    border: red 2px solid;
+}
+.errorMessage{
+    color: red;
+}
+.buttonFilter{
+    outline: none;
+    background-color: aquamarine;
+}
+.isDone{
+    opacity:0.5
+}
